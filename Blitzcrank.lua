@@ -21,7 +21,7 @@ BlitzcrankMenu.draw:ColorPick("rcirclecol", "R Circle color", {255, 134, 26, 217
 tsg = TargetSelector(1100,TARGET_LESS_CAST_PRIORITY,DAMAGE_PHYSICAL,true,false)
 
 
-local BlitzcrankQ = {delay = 0.250, range = 900, width = 70, speed = 1800}
+local BlitzcrankQ = {delay = 0.250, range = 920, width = 70, speed = 1750}
 
 OnTick(function()
 local target = GetCurrentTarget()
@@ -69,4 +69,4 @@ end
 end
 end)
 
-    print("Blitzcrank  lyý Oyunlar Good Game")
+    print("Blitzcrank  lyÃ½ Oyunlar Good Game")
