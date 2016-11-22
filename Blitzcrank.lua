@@ -69,4 +69,4 @@ end
 end
 end)
 
-    print("Blitzcrank  lyý Oyunlar Good Game")
+    print("Blitzcrank  lyıı Oyunlar Good Game")
